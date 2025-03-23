@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+pydantic
+jinja2
+markdown
+python-dotenv
+pydantic[email]
